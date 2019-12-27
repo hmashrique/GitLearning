@@ -1,4 +1,4 @@
-the poem:
+the poem and ponies:
 
 red 
 blue 
@@ -7,6 +7,7 @@ orange
 black
 white
 unicorn
+ponies
 
 new line added.
 and the unicorn.
