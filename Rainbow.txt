@@ -6,5 +6,7 @@ green
 orange 
 black
 white
+unicorn
 
 new line added.
+and the unicorn.
