@@ -16,6 +16,7 @@ git clean -f (actually delete the files)
 
 ## checkout of branch without commiting:
  git stash
+ 
  git checkout *branchname*
 
 ## check git commits in one line:
