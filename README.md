@@ -4,6 +4,12 @@ Created the repo to learn Git.
 
 ## Git commands for shortcut:
 
+## Get new updates from remote in local repo:
+git fetch (wont make change to ur existing work)
+
+## Get the most recent remote(github) updates in local repo:
+Git pull (fetch + merge)
+
 ## To clear untracked files:
 git clean -n (to view files to be deleted)
 git clean -f (actually delete the files)
