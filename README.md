@@ -2,7 +2,6 @@
 Created the repo to learn Git.
 
 
-## Git commands for shortcut:
 
 ## Get new updates from remote in local repo:
 git fetch (wont make change to ur existing work)
